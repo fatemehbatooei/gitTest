@@ -4,6 +4,5 @@ public class Main {
         System.out.println("bye");
         System.out.println("ridi");
         System.out.println("naridi");
-
     }
 }
